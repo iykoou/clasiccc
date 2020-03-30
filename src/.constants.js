@@ -1,5 +1,5 @@
 module.exports = Object.freeze({
-  TOKEN: '914850354:AAHNXfaB-eYEpMDG58cFtuey-yCZcfe_kt8',
+  TOKEN: '1054372305:AAF91XzIg9de-tLfeD05U6CToKuA01psE-w',
   ARIA_SECRET: 'pronoob',
   ARIA_DOWNLOAD_LOCATION: '/home/user/path/to/download/dir',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
@@ -23,7 +23,7 @@ module.exports = Object.freeze({
   },
   COMMANDS_USE_BOT_NAME: {
     ENABLED: true,  // If true, all commands except '/list' has to have the bot username after the command
-    NAME: "@CloudDriver_bot"
+    NAME: "@eviluploader_bot"
   },
   IS_TEAM_DRIVE: true
 });
