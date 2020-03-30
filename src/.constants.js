@@ -9,7 +9,7 @@ module.exports = Object.freeze({
   INDEX_DOMAIN: 'https://its.pronoobgdrivemoviess.workers.dev/Pronoobcloud/', //Get it from here https://gdindex-code-builder.glitch.me/
   GDRIVE_PARENT_DIR_ID: '13z5zCp5XR-XdyT50HdJDr84IzdroF-lE',
   SUDO_USERS: [882130858],	// Telegram user IDs. These users can use the bot in any chat.
-  AUTHORIZED_CHATS: [-1001403349196],	// Telegram chat IDs. Anyone in these chats can use the bot.
+  AUTHORIZED_CHATS: [-291164914],	// Telegram chat IDs. Anyone in these chats can use the bot.
   STATUS_UPDATE_INTERVAL_MS: 5000, // A smaller number will update faster, but might cause rate limiting
   DRIVE_FILE_PRIVATE: {
     ENABLED: false,
