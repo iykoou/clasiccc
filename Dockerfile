@@ -8,7 +8,9 @@ RUN apk add --no-cache --update \
       bash \
       nodejs \
       npm \
-      aria2
+      aria2 \
+      curl
+RUN curl pv jq nginx npm
 
 # To handle not get uid/gid error while installing a npm package
 RUN npm config set unsafe-perm true
